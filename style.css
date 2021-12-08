@@ -1,0 +1,26 @@
+body{
+  background-color: aqua;
+}
+header{
+  background-color: #EDDD66;
+  text-align: center;
+  padding:5px;
+  border: solid 2px black;
+}
+label{
+  display: block;
+  text-align: center;
+  margin-top: 15px;
+}
+input{
+  display: block;
+  margin: auto;
+}
+button{
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  background-color: #ED4EA5;
+  padding:25px;
+  font-size: larger;
+}
